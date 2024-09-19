@@ -38,6 +38,8 @@
 
 }
 
+.container__botao:checked ~;container__rot
+
 @media screen and (min-width: 1024px) {
     .banner__titulo {
         font-size: 36px;
